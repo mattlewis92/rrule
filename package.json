@@ -61,5 +61,8 @@
   "files": [
     "dist",
     "README.md"
-  ]
+  ],
+  "optionalDependencies": {
+    "luxon": "^1.3.3"
+  }
 }
